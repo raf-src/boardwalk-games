@@ -72,6 +72,20 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* New Games Section */ 
+
+#new-games .card {
+   border: none;
+}
+
+/* Favorite Games Section */
+
+#fav-games .card {
+   border: none;
+}
+
+
+
 /* grid visualisation for testing
 .container,
 .row {
